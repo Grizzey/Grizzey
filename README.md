@@ -2,6 +2,7 @@
 <p align="left">A guy who do random stuff</p>
 
 ![](https://komarev.com/ghpvc/?username=grizzey&label=Profile+Visits&style=for-the-badge)
+<!---https://yhype.me/github/profile-views--->
 
 - 🔭 I’m currently working on **My Profile**
 

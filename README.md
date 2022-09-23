@@ -1,3 +1,5 @@
+https://rishavanand.github.io/static/images/greetings.gif
+
 <h1 align="center">Hi 👋, I'm Grizz</h1>
 <h3 align="center">A guy who do random stuffs from The Philippines</h3>
 

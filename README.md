@@ -6,6 +6,10 @@
 <div align="center">
 - 🔭 I’m currently working on **My Profile**
 
+- 😎 Student
+  
+- 🎉 I'm 14 years old
+  
 - 🌱 I’m currently learning **UI, Lua**
 </div>
   

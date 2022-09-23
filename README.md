@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **My Profile**
 
-- 😎 Student
+- 😎 I'm a **Student**
   
-- 🎉 I'm 14 years old
+- 🎉 I'm **14 years old**
   
 - 🌱 I’m currently learning **UI Designing, Lua**
 

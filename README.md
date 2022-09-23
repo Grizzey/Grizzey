@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Grizz</h1>
-<p align="left">A guy who do random stuff</p>
-
 ![](https://komarev.com/ghpvc/?username=grizzey&label=Profile+Visits&style=for-the-badge) ![](https://img.shields.io/badge/Roblox%20Profile-4Hoursleft-red?style=for-the-badge&logo=roblox) ![](https://img.shields.io/badge/Twitter%20Profile-@Grizz__Oofficial-blue?style=for-the-badge&logo=twitter)
 <!---https://yhype.me/github/profile-views--->
 

@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Grizz</h1>
 <p align="left">A guy who do random stuff</p>
 
-
+![](https://komarev.com/ghpvc/?username=grizzey&label=Profile+Visits&style=for-the-badge)
 
 - 🔭 I’m currently working on **My Profile**
 

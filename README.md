@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Grizz</h1>
 <p align="left">A guy who do random stuff</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=grizzey&label=Profile%20views&color=0e75b6&style=flat" alt="grizzey" /> </p>
+
 
 - 🔭 I’m currently working on **My Profile**
 
@@ -19,3 +19,5 @@
 
 ![Grizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grizzey&theme=gruvbox&show_icons=true)
 </div>
+
+![Grizzey View Count](https://hit.yhype.me/github/profile?user_id=73973192)

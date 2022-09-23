@@ -20,4 +20,4 @@
 ![Grizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grizzey&theme=gruvbox&show_icons=true)
 </div>
 
-![Grizzey View Count](https://hit.yhype.me/github/profile?user_id=73973192)
+![](https://hit.yhype.me/github/profile?user_id=73973192)

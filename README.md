@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&duration=3000&pause=500&color=F79200&center=true&multiline=true&width=500&height=70&lines=Terence+Montecillo;Dumb+idea's+are+the+best.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=45&duration=3000&pause=500&color=F79200&center=true&multiline=true&width=1000&height=200&lines=Terence+Montecillo;Dumb+idea's+are+the+best.)](https://git.io/typing-svg)
 
 
 ![Profile views](https://gpvc.arturio.dev/Grizzey)

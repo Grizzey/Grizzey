@@ -17,7 +17,7 @@ Skills: LUA / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grizzey&show_icons=true&hide_border=true&theme=dark)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grizzey&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grizzey&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 

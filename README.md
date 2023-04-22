@@ -4,19 +4,23 @@
 <!---https://yhype.me/github/profile-views--->
 <!---https://yhype.me/ghpvc THIS IS TO RESET COUNT--->
 
-- 🔭 I’m currently working on **Roblox Plugins**
+Hi! I'm Grizz, A rookie roblox developer and focuses on **UI**
 
-- 😎 I'm a **Student**
+Skills: LUA / HTML / CSS
 
-- 🌱 I’m currently learning **UI Designing, Lua**
+- 🔭 I’m currently working on **Nothing** 
+- 🌱 I’m currently learning **Lua** 
+- 📫 How to reach me: Discord [**Lerck#1986**] 
+- ⚡ Fun fact: ***Bread.*** 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Grizzey)  
 
-<div id="stats"style="width:100%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grizzey&theme=gruvbox&show_icons=true&locale=en&" alt="grizzey" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Grizzey)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Grizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=grizzey&theme=gruvbox&show_icons=true)
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grizzey&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Grizzey)  
+
+![Profile views](https://gpvc.arturio.dev/Grizzey)
 
 ![](https://hit.yhype.me/github/profile?user_id=73973192)

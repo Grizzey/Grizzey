@@ -1,6 +1,4 @@
-<h1 align="left">Hi 👋, I'm Grizz</h1>
-
-![](https://komarev.com/ghpvc/?username=grizzey&label=Profile+Visits&style=for-the-badge) ![](https://img.shields.io/badge/Roblox%20Profile-4Hoursleft-red?style=for-the-badge&logo=roblox) ![Profile views](https://gpvc.arturio.dev/Grizzey)
+![Profile views](https://gpvc.arturio.dev/Grizzey)
 <!---https://yhype.me/github/profile-views--->
 <!---https://yhype.me/ghpvc THIS IS TO RESET COUNT--->
 
@@ -17,9 +15,9 @@ Skills: LUA / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grizzey&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grizzey&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grizzey&show_icons=true&hide_border=true&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Grizzey)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grizzey&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 
 

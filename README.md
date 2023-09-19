@@ -12,7 +12,7 @@ Skills: LUA / HTML / CSS
 - 🔭 I’m currently working on **Nothing** 
 - 🌱 I’m currently learning **Lua** 
 - 📫 How to reach me: Discord [**Lerck#1986**] 
-- ⚡ Fun fact: ***Bread.*** 
+- ⚡ Fun fact: ***Currently Inactive*** 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grizzey&theme=dark_lover&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 

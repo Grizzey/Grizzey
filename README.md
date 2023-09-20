@@ -5,7 +5,7 @@
 <!---https://yhype.me/github/profile-views--->
 <!---https://yhype.me/ghpvc THIS IS TO RESET COUNT--->
 
-Hi! I'm Grizz, A rookie roblox developer and focuses on **UI**
+Hi! I'm Grizz, A JHS Student.
 
 Skills: LUA / HTML / CSS
 

@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=30&duration=3000&pause=500&color=F79200&center=true&multiline=true&width=1000&height=200&lines=Terence+Montecillo;Dumb+idea's+are+the+best.)](https://git.io/typing-svg)
-
-Hi! I'm Grizz, A JHS Student.
+Hi! I'm Grizz, a JHS Student.
 
 Skills: LUA / HTML / CSS
 

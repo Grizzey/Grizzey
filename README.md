@@ -3,7 +3,7 @@ Hi! I'm Grizz, a JHS Student.
 Skills: LUA / HTML / CSS
 
 - 🔭 I’m currently working on **Nothing** 
-- 🌱 I’m currently learning **Lua, CSS, HTML and C++**  
+- 🌱 I’m currently learning **Lua, CSS, HTML and C#**  
 - ⚡ Fun fact: ***Currently Inactive*** 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Grizzey&theme=dark_lover&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)

@@ -1,17 +1,12 @@
-Hi! I'm Grizz, a JHS Student.
 
-Skills: LUA / HTML / CSS
+# 💻 Tech Stack:
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Grizzey&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Grizzey&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Grizzey&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on **Nothing** 
-- 🌱 I’m currently learning **Lua, CSS, HTML and C#**  
-- ⚡ Fun fact: ***Currently Inactive*** 
+---
+[![](https://visitcount.itsvg.in/api?id=Grizzey&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Grizzey&theme=dark_lover&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Grizzey&show_icons=true&hide_border=true&theme=dark)  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Grizzey&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-![](https://hit.yhype.me/github/profile?user_id=73973192)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

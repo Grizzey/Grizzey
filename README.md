@@ -9,7 +9,7 @@
 # ✏️ Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://grizzey.github.io/">
     <img src="https://skillicons.dev/icons?i=blender,ps,ai,robloxstudio,vscode,eclipse" />
   </a>
 </p>

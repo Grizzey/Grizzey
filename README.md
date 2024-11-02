@@ -17,9 +17,11 @@
 # 🗣️ Socials:
 
 <p align="center">
-  <a>
-    <img href="https://discord.com/users/489963091019169802" src="https://skillicons.dev/icons?i=discord,instagram" />
-    <img href="https://www.instagram.com/nbit.lnk/" src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://discord.com/users/489963091019169802">
+    <img  src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://www.instagram.com/nbit.lnk/>
+    <img " src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 

@@ -18,10 +18,10 @@
 
 <p align="center">
   <a href="https://discord.com/users/489963091019169802">
-    <img  src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.instagram.com/nbit.lnk/>
-    <img " src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/nbit.lnk/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 

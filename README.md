@@ -17,7 +17,7 @@
 # 🗣️ Socials:
 
 <p align="center">
-  <a href="https://google.com">
+  <a href="https://discord.com/users/489963091019169802">
     <img src="https://skillicons.dev/icons?i=discord,instagram" />
   </a>
 </p>

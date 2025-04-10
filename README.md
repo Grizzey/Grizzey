@@ -1,7 +1,7 @@
 # 💻 Tech Stack:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,java" />
   </a>
 </p>
@@ -9,7 +9,7 @@
 # ✏️ Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=blender,ps,ai,robloxstudio,vscode,eclipse" />
   </a>
 </p>
@@ -17,10 +17,10 @@
 # 🗣️ Socials:
 
 <p align="center">
-  <a href="https://discord.com/users/489963091019169802">
+  <a>
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.instagram.com/nbit.lnk/">
+  <a>
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>

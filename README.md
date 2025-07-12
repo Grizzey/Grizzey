@@ -10,18 +10,7 @@
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=blender,ps,ai,robloxstudio,vscode,eclipse" />
-  </a>
-</p>
-
-# 🗣️ Socials:
-
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=blender,ps,ai,robloxstudio,vscode" />
   </a>
 </p>
 

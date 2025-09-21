@@ -1,3 +1,5 @@
+> ![](https://komarev.com/ghpvc/?username=grizzey&color=green)
+
 # 💻 Tech Stack:
 
 <p align="center">

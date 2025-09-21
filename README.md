@@ -1,18 +1,10 @@
-> ![](https://komarev.com/ghpvc/?username=grizzey&color=green)
+![](https://komarev.com/ghpvc/?username=grizzey&color=green)
 
 # 💻 Tech Stack:
 
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=js,html,css,lua,java" />
-  </a>
-</p>
-
-# ✏️ Tools:
-
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=blender,ps,ai,robloxstudio,vscode" />
   </a>
 </p>
 

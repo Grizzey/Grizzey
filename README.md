@@ -8,5 +8,6 @@
 
 | About Me          | I do stuff for fun |
 |-------------------|--------------------|
-| GitHub Stats | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grizzey&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grizzey&theme=dark&hide_border=false) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Grizzey&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| CodeWars | [![Codewars Badge](https://www.codewars.com/users/Grizzey/badges/large)](https://www.codewars.com/users/Grizzey) |
+| GitHub Stats | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Grizzey&theme=dark&hide_border=false) |
 | Languages & Tools: | <img src="https://skillicons.dev/icons?i=js,html,css,lua,java&theme=dark" /> |

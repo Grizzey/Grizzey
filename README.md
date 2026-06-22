@@ -10,4 +10,4 @@
 |----------|--------------------|
 | CodeWars | [![Codewars Badge](https://www.codewars.com/users/Grizzey/badges/large)](https://www.codewars.com/users/Grizzey) |
 | Languages & Tools | <img src="https://skillicons.dev/icons?i=js,html,css,lua,java,cs&theme=dark" /> |
-| Tools | <img src="https://skillicons.dev/icons?i=godot,blender,vscode,spotify&theme=dark" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=godot,blender,vscodium,spotify&theme=dark" /> |
